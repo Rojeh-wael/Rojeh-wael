@@ -46,6 +46,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
 </p>
 
+#### Data Analysis & Business Intelligence
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="sql-server" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="45" height="45"/>
+</p>
+
 ---
 
 ### 🏢 Professional Experience
@@ -60,6 +68,8 @@
 - 👁️ **Computer Vision** - Image processing and pattern recognition
 - 📝 **Natural Language Processing** - Text analysis and language models
 - 📊 **Data Analysis** - Statistical analysis and data visualization
+- 🗃️ **Database Management** - SQL queries and database optimization
+- 📈 **Business Intelligence** - Dashboard creation and reporting with Power BI
 - 🔮 **AI Agents** - Intelligent automation systems
 
 ---
