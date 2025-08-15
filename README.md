@@ -1,6 +1,6 @@
 # Hi there, I'm Rojeh Wael! 👋
 
-<img align="right" alt="AI Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🎓 About Me
 - **4th Year Student** in Artificial Intelligence Department at Cairo University
@@ -10,8 +10,6 @@
 - 💼 Ex-Trainee at **Bee Interactive Group** & **EgronX**
 - 📫 Reach me at: **rojehwael@yahoo.com**
 
----
-
 ### 🚀 What I'm Working On
 - 🤖 Advanced Machine Learning algorithms implementation
 - 🧠 Deep Learning models for Computer Vision
@@ -19,8 +17,6 @@
 - 🔍 Natural Language Processing applications
 - 🚀 Exploring Large Language Models (LLMs)
 - 🤖 Building AI Agents and automation systems
-
----
 
 ### 💻 Tech Stack
 
